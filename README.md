@@ -8,4 +8,4 @@ Java, TypeScript, Angular, Spring Boot, MySQL, Postman, REST API, Bootstrap
 #### Angular Frontend : https://github.com/ArijKahlaoui/Font-TWETYK
 
 ### Some of the application interfaces:
-[Login interface](https://github.com/ArijKahlaoui/FontTWETYK/blob/master/src/assets/images/capture/login.PNG)
+https://github.com/ArijKahlaoui/Font-TWETYK/tree/master/src/assets/images/capture
