@@ -10,5 +10,3 @@ Java, TypeScript, Angular, Spring Boot, MySQL, Postman, REST API, Bootstrap
 ### Some of the application interfaces:
 https://github.com/ArijKahlaoui/Font-TWETYK/tree/master/src/assets/images/capture
 
-### Demo
-file:///C:/Users/Arij/Desktop/ParticleGround-Portfolio/index.html
